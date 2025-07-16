@@ -16,7 +16,7 @@
 
 🎓 **Computer Science Engineering Graduate** from **University College of Engineering, Nagercoil (2021–2025)**  
 💡 Passionate about using data to solve real-life challenges  
-🧠 Always exploring — from hypothesis testing to machine learning  
+🧠 Evolving through hands-on experience with statistics, EDA, and ML techniques
 ✨ Obsessed with clean code, visual clarity, and real-world value
 
 ---
