@@ -67,7 +67,6 @@
 
 - 🌐 **LinkedIn:** [Sangeetha Thangam](https://www.linkedin.com/in/sangeetha-thangam)  
 - 📧 **Email:** sangeethathangam07@gmail.com  
-- 📁 **Resume:** [Click here to view](https://github.com/sangeetha077/sangeetha077/blob/main/Resume-SANGEETHA%20T%20(10)%20(3).pdf)  
 
 ---
 
